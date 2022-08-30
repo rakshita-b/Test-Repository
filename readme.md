@@ -1,6 +1,6 @@
 # to run 
 
-i made a change, wow
+i made a change
 
 > mvn clean install
 
